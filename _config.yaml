@@ -1,0 +1,7 @@
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Tranzallos Dev Site
+description: I'll fill this out later
+google_analytics: G-PC9YYC3G3C
